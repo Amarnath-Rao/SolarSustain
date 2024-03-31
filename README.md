@@ -76,6 +76,13 @@ Not considered.
 ## Sources
 Informed by VM0038 Methodology for Electric Vehicle Charging Systems v1.0.
 
+
+![image](https://github.com/Amarnath-Rao/SolarSustain/assets/96937608/ae956a84-97dd-47c4-b0fa-849175fec916)
+![image](https://github.com/Amarnath-Rao/SolarSustain/assets/96937608/672089e3-326e-4bd8-be99-f8a42de894dc)
+![image](https://github.com/Amarnath-Rao/SolarSustain/assets/96937608/8e04e914-a65e-43e6-b8f4-82cfe25459b1)
+![image](https://github.com/Amarnath-Rao/SolarSustain/assets/96937608/a4d955bd-47ac-4b42-955b-417a944618d5)
+
+
 ## Conclusion
 In conclusion, the SolarSustain methodology offers a multifaceted approach to addressing climate challenges in emerging markets:
 
